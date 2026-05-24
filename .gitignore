@@ -71,3 +71,7 @@ Testing/
 #build
 /bin
 /build
+
+#ssh
+/123456
+/123456.pub
